@@ -1,0 +1,21 @@
+baseURL: "https://aegrin.com/"
+languageCode: "en-us"
+title: "Allen Redding"
+theme: papermod
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    subtitle: "aegrin media"
+    imageUrl: "/img/aegrin.jpg" # optional
+    imageTitle: "Allen Redding" # optional
+    imageWidth: 250 # custom size
+    imageHeight: 250 # custom size
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://linkedin.com/in/allenredding"
+    # - name: "github"
+    #   url: "https://github.com/klxg5"
