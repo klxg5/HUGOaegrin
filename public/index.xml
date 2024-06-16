@@ -2,11 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Allen Redding</title>
-    <link>https://aegrin.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Allen Redding</description>
     <generator>Hugo -- 0.126.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aegrin.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jun 2024 15:03:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 14 Jun 2024 15:03:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>This is the first post of my site HDR Designs</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/binkley-barfield/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/binkley-barfield/</guid>
+      <description>Designed and launched the main website of the company along with an internal website used as a repository of information to be shared among employees and contractors. Created various print ads used in trade publications in the industry to broaden the marketing appeal and attract attention to the new direction leadership was going within the company. Initiated the first attempt at multimedia marketing including video editing used to show forward thinking through business card cd’s which were gaining popularity at the time.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/camping-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/camping-world/</guid>
+      <description>Created a content management system for SEO content allowing not only quick updates but the ability to quickly iterate A/B test sets increasing web traffic and lead generation. Managed a suite of applications to help clients navigate the process of locating, purchasing, and owning an RV through a wide national network of dealerships. Created standardized templates and processes to handle repetitive tasks leading to more developer time to be used on the main goal of increasing the number and quality of leads.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/f1-consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/f1-consulting/</guid>
+      <description>Created a custom application to replace how RFPs were created, tracked, and managed which resulted in a much more streamlined workflow that everybody could use to better manage their business. Managed the migration of data through ETL software CloverDX between spreadsheets, databases, and JSON to allow existing legacy work processes to integrate into modern processes. Re-branded SuiteCRM to fit the aesthetic design of other software used by the client by applying custom themes and other visual elements such as icons and custom functions.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/hostgator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/hostgator/</guid>
+      <description> Assisted with troubleshooting and migrating hosted client websites and custom applications built primarily using WordPress as the framework and MySQL as the database. Developed excellent customer service skills and was recognized as a top performer in the company resolving problems quickly with almost no required follow-up support for the same issue. WordPress, Troubleshooting, HTML, CSS, JavaScript, PHP, MySql, Linux, Bash, Apache, cPanel, WHM </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/icamppro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/icamppro/</guid>
+      <description> Developed and maintained a SaaS application for organizations and families to manage camp events and activities for themselves and/or their children. Laravel, PHP, TypeScript, Angular, Eloquent, Git, Docker, ClickUp, Aria, PSR-12 </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/infodat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/infodat/</guid>
+      <description> Developed an internal CRM tool using PimCore for a flooring company that sold through 3rd party merchants like Wayfair and Amazon to manage all details of their products and inventory. PimCore, PHP, Symfony, Doctrine, HTML, CSS, JavaScript, jQuery, MySql </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/richardson-electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/richardson-electronics/</guid>
+      <description>Designed and maintained the main divisional website and all sales office websites within the division as well as designed new product spec sheets as needed. Responsible for coordinating with office locations and the marketing team about new events and products that were manually updated on the branch pages and main site. Managed email lists and campaigns including requests to subscribe or unsubscribe from the newsletter and designed new promotional emails to customers across the division or for specific locations.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/jobs/universal-weather-aviation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/universal-weather-aviation/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

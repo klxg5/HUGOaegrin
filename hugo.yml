@@ -19,3 +19,14 @@ params:
       url: "https://linkedin.com/in/allenredding"
     # - name: "github"
     #   url: "https://github.com/klxg5"
+
+menu:
+  main:
+    - identifier: resume
+      name: resume
+      url: /resume/
+      weight: 10
+    - identifier: portfolio
+      name: portfolio
+      url: /portfolio/
+      weight: 20
